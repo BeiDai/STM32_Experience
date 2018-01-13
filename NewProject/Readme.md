@@ -24,7 +24,7 @@
 | System    | 正点原子库 |
 | MDK-ARM   | 工程文件夹 |
 
-2. STM32F4复制官方固件库到工程
+##### 2. STM32F4复制官方固件库到工程
 
 **CMSIS** :
 
@@ -39,7 +39,7 @@ system_stm32f4xx.c
 
 ./STM32F4xx_StdPeriph_Driver
 
-3. STM32F1复制官方固件库到工程
+##### 3. STM32F1复制官方固件库到工程
 
 **CMSIS**
 
@@ -52,5 +52,3 @@ stm32f10x.h  /  stm32f10x_conf.h  / stm32f10x_it.c  / stm32f10x_it.h  / system_s
 **StdPeriph**
 
 ./StdPeriph_Driver
-
-4.
