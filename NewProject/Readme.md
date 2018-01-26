@@ -12,7 +12,7 @@
 
 #### 二、新建工程
 
-1. 新建文件夹
+##### 1. 新建文件夹
 
 | 文件夹    | 包含内容   |
 | --------- | ---------- |
@@ -52,3 +52,9 @@ stm32f10x.h  /  stm32f10x_conf.h  / stm32f10x_it.c  / stm32f10x_it.h  / system_s
 **StdPeriph**
 
 ./StdPeriph_Driver
+
+##### 4. 设置MDK软件
+
+宏定义 C/C++ ：STM32F10X_HD,USE_STDPERIPH_DRIVER
+              STM32F40_41xxx,USE_STDPERIPH_DRIVER
+系统环境添加所有含有头文件定义的文件夹
