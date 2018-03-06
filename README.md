@@ -12,7 +12,9 @@ STM32的使用经验整理，首先是新建STM32工程，其次是STM32固件�
 
 - [STM32新建工程方法](/NewProject/NewProject.md)
 
-### STM32固件库
+### STM32固件库使用经验
+
+- [固件库使用经验](/Peripheral/Peripheral.md)
 
 ### 设备驱动经验
 

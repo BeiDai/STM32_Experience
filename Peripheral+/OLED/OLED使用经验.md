@@ -13,7 +13,11 @@
 - 12*12的汉字12_12,取模为(2 * 8) _ 12 = 24
 - 英文字母为12_06,16_08,24_12;
 - 中文大小为12_12,14_14,16_16;
-- 
+
+### OLED笔记
+
+![OLED1](/Pictures/OLED1.JPG)
+![OLED](/Pictures/OLED2.JPG)
 
 ### 一、接线
 
@@ -59,7 +63,7 @@
 
     	RCC_AHB1PeriphClockCmd(RCC_AHB1Periph_GPIOB|RCC_AHB1Periph_GPIOC|RCC_AHB1Periph_GPIOD, ENABLE);
         //使能PORTA~E,PORTG时钟
-    	
+
         //使用4线SPI 串口模式
       GPIO_InitStructure.GPIO_Pin = GPIO_Pin_7 ;
       GPIO_InitStructure.GPIO_Mode = GPIO_Mode_OUT;//普通输出模式
