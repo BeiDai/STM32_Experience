@@ -12,9 +12,14 @@ STM32的使用经验整理，首先是新建STM32工程，其次是STM32固件�
 
 - [STM32新建工程方法](/NewProject/NewProject.md)
 
+### STM32F4xx资源与使用手册
+
+- [STM32F4xx](PCB_Desiner\STM32F4xx.md)
+
 ### STM32固件库使用经验
 
 - [固件库使用经验](/Peripheral/Peripheral.md)
+
 
 ### 设备驱动经验
 
@@ -36,3 +41,9 @@ STM32的使用经验整理，首先是新建STM32工程，其次是STM32固件�
 - [信号量和虎刺信号量](/μC'OS-III/8.信号量和互斥信号量.md)
 - [消息传递](/μC'OS-III/9.消息传递.md)
 - [事件标志组和同时等待多个内核对象](/μC'OS-III/10.事件标志组和同时等待多个内核对象.md)
+
+
+### PCB焊接与设计
+
+- [PCB焊接经验](PCB_Desiner\PCB板焊接经验.md)
+- [PCB板设计经验](PCB_Desiner\PCB板设计经验.md)
