@@ -14,7 +14,7 @@ STM32的使用经验整理，首先是新建STM32工程，其次是STM32固件�
 
 ### STM32F4xx资源与使用手册
 
-- [STM32F4xx](PCB_Desiner\STM32F4xx.md)
+- [STM32F4xx](/PCB_Desiner/STM32F4xx.md)
 
 ### STM32固件库使用经验
 
@@ -45,5 +45,5 @@ STM32的使用经验整理，首先是新建STM32工程，其次是STM32固件�
 
 ### PCB焊接与设计
 
-- [PCB焊接经验](PCB_Desiner\PCB板焊接经验.md)
-- [PCB板设计经验](PCB_Desiner\PCB板设计经验.md)
+- [PCB焊接经验](/PCB_Desiner/PCB板焊接经验.md)
+- [PCB板设计经验](/PCB_Desiner/PCB板设计经验.md)
