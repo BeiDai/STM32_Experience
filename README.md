@@ -4,8 +4,7 @@ STM32的使用经验整理，首先是新建STM32工程，其次是STM32固件�
 之后是一些设备的使用经验，最后是uCOSIII系统的移植
 
 - 新建工程方法
-- STM32F4xx资源与使用手册
-- STM32固件库
+- STM32固件库使用经验 & STM32F4xx资源与使用手册*
 - 设备驱动经验
 - uCOSIII系统
 - PCB焊接与设计
@@ -14,11 +13,8 @@ STM32的使用经验整理，首先是新建STM32工程，其次是STM32固件�
 
 - [STM32新建工程方法](/NewProject/NewProject.md)
 
-## STM32F4xx资源与使用手册*
 
-- [STM32F4xx](/PCB_Desiner/STM32F4xx.md)
-
-## STM32固件库使用经验
+## STM32固件库使用经验 & STM32F4xx资源与使用手册*
 
 - [固件库使用经验](/Peripheral/Peripheral.md)
 
@@ -31,6 +27,7 @@ STM32的使用经验整理，首先是新建STM32工程，其次是STM32固件�
 - [干簧管](/Peripheral+/ReedSwitch/干簧管使用经验.md)
 - [A4988驱动步进电机](/Peripheral+/StepperMotor/A4988驱动42步进电机.md)
 - [DHT11使用经验](/Peripheral+/DHT11/DHT11使用经验.md)
+
 
 ## uCOSIII系统
 
